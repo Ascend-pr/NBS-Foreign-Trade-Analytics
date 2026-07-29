@@ -43,9 +43,10 @@ The workbook is built in three layers:
 
 ## Files
 
-- `nbs_foreign_trade_dashboard.xlsx` — the full workbook (Raw Data, Model, Dashboard)
-- `screenshot_01_dashboard_overview.png` — dashboard screenshot, since GitHub cannot render Excel charts inline
-
+- NBS foreign trade dashboard.xlsx — the full workbook (Raw Data, Model, Dashboard)
+- Dashboard.png — dashboard screenshot, since GitHub cannot render Excel charts inline
+- Model.png — screenshot of the PivotTable layer feeding the dashboard
+- Raw Data.png — screenshot of the source data sheet
 ## Author
 
 Promise Odufuwa
